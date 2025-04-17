@@ -1,0 +1,14 @@
+H:\projects\CalculoFaturamento-JSON\CalculoFaturamento-JSON\obj\Debug\net8.0\CalculoFaturamento-JSON.GeneratedMSBuildEditorConfig.editorconfig
+H:\projects\CalculoFaturamento-JSON\CalculoFaturamento-JSON\obj\Debug\net8.0\CalculoFaturamento-JSON.AssemblyInfoInputs.cache
+H:\projects\CalculoFaturamento-JSON\CalculoFaturamento-JSON\obj\Debug\net8.0\CalculoFaturamento-JSON.AssemblyInfo.cs
+H:\projects\CalculoFaturamento-JSON\CalculoFaturamento-JSON\obj\Debug\net8.0\CalculoFaturamento-JSON.csproj.CoreCompileInputs.cache
+H:\projects\CalculoFaturamento-JSON\CalculoFaturamento-JSON\bin\Debug\net8.0\CalculoFaturamento-JSON.exe
+H:\projects\CalculoFaturamento-JSON\CalculoFaturamento-JSON\bin\Debug\net8.0\CalculoFaturamento-JSON.deps.json
+H:\projects\CalculoFaturamento-JSON\CalculoFaturamento-JSON\bin\Debug\net8.0\CalculoFaturamento-JSON.runtimeconfig.json
+H:\projects\CalculoFaturamento-JSON\CalculoFaturamento-JSON\bin\Debug\net8.0\CalculoFaturamento-JSON.dll
+H:\projects\CalculoFaturamento-JSON\CalculoFaturamento-JSON\bin\Debug\net8.0\CalculoFaturamento-JSON.pdb
+H:\projects\CalculoFaturamento-JSON\CalculoFaturamento-JSON\obj\Debug\net8.0\CalculoFaturamento-JSON.dll
+H:\projects\CalculoFaturamento-JSON\CalculoFaturamento-JSON\obj\Debug\net8.0\refint\CalculoFaturamento-JSON.dll
+H:\projects\CalculoFaturamento-JSON\CalculoFaturamento-JSON\obj\Debug\net8.0\CalculoFaturamento-JSON.pdb
+H:\projects\CalculoFaturamento-JSON\CalculoFaturamento-JSON\obj\Debug\net8.0\CalculoFaturamento-JSON.genruntimeconfig.cache
+H:\projects\CalculoFaturamento-JSON\CalculoFaturamento-JSON\obj\Debug\net8.0\ref\CalculoFaturamento-JSON.dll

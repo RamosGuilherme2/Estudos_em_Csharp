@@ -1,0 +1,14 @@
+H:\projects\Calculo_de_soma_simples\Calculo_de_soma_simples\bin\Debug\net8.0\Calculo_de_soma_simples.exe
+H:\projects\Calculo_de_soma_simples\Calculo_de_soma_simples\bin\Debug\net8.0\Calculo_de_soma_simples.deps.json
+H:\projects\Calculo_de_soma_simples\Calculo_de_soma_simples\bin\Debug\net8.0\Calculo_de_soma_simples.runtimeconfig.json
+H:\projects\Calculo_de_soma_simples\Calculo_de_soma_simples\bin\Debug\net8.0\Calculo_de_soma_simples.dll
+H:\projects\Calculo_de_soma_simples\Calculo_de_soma_simples\bin\Debug\net8.0\Calculo_de_soma_simples.pdb
+H:\projects\Calculo_de_soma_simples\Calculo_de_soma_simples\obj\Debug\net8.0\Calculo_de_soma_simples.GeneratedMSBuildEditorConfig.editorconfig
+H:\projects\Calculo_de_soma_simples\Calculo_de_soma_simples\obj\Debug\net8.0\Calculo_de_soma_simples.AssemblyInfoInputs.cache
+H:\projects\Calculo_de_soma_simples\Calculo_de_soma_simples\obj\Debug\net8.0\Calculo_de_soma_simples.AssemblyInfo.cs
+H:\projects\Calculo_de_soma_simples\Calculo_de_soma_simples\obj\Debug\net8.0\Calculo_de_soma_simples.csproj.CoreCompileInputs.cache
+H:\projects\Calculo_de_soma_simples\Calculo_de_soma_simples\obj\Debug\net8.0\Calculo_de_soma_simples.dll
+H:\projects\Calculo_de_soma_simples\Calculo_de_soma_simples\obj\Debug\net8.0\refint\Calculo_de_soma_simples.dll
+H:\projects\Calculo_de_soma_simples\Calculo_de_soma_simples\obj\Debug\net8.0\Calculo_de_soma_simples.pdb
+H:\projects\Calculo_de_soma_simples\Calculo_de_soma_simples\obj\Debug\net8.0\Calculo_de_soma_simples.genruntimeconfig.cache
+H:\projects\Calculo_de_soma_simples\Calculo_de_soma_simples\obj\Debug\net8.0\ref\Calculo_de_soma_simples.dll

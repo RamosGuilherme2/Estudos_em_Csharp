@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\projects\\ConvertendoString\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC3C4D1-0F0E-48B0-A389-D000718DBB39}|ConvertendoString\\ConvertendoString.csproj|h:\\projects\\convertendostring\\convertendostring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC3C4D1-0F0E-48B0-A389-D000718DBB39}|ConvertendoString\\ConvertendoString.csproj|solutionrelative:convertendostring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\projects\\ConvertendoString\\ConvertendoString\\Program.cs",
+              "RelativeDocumentMoniker": "ConvertendoString\\Program.cs",
+              "ToolTip": "H:\\projects\\ConvertendoString\\ConvertendoString\\Program.cs",
+              "RelativeToolTip": "ConvertendoString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T02:47:35.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

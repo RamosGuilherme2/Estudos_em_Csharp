@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\projects\\CalculoFaturamento-JSON\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A90643A-7292-46AD-B982-CEE4AE967CDF}|CalculoFaturamento-JSON\\CalculoFaturamento-JSON.csproj|h:\\projects\\calculofaturamento-json\\calculofaturamento-json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A90643A-7292-46AD-B982-CEE4AE967CDF}|CalculoFaturamento-JSON\\CalculoFaturamento-JSON.csproj|solutionrelative:calculofaturamento-json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|H:\\projects\\CalculoFaturamento-JSON\\CalculoFaturamento-JSON\\bin\\Debug\\net8.0\\Faturamento.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|solutionrelative:CalculoFaturamento-JSON\\bin\\Debug\\net8.0\\Faturamento.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Faturamento.json",
+              "DocumentMoniker": "H:\\projects\\CalculoFaturamento-JSON\\CalculoFaturamento-JSON\\bin\\Debug\\net8.0\\Faturamento.json",
+              "RelativeDocumentMoniker": "CalculoFaturamento-JSON\\bin\\Debug\\net8.0\\Faturamento.json",
+              "ToolTip": "H:\\projects\\CalculoFaturamento-JSON\\CalculoFaturamento-JSON\\bin\\Debug\\net8.0\\Faturamento.json",
+              "RelativeToolTip": "CalculoFaturamento-JSON\\bin\\Debug\\net8.0\\Faturamento.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T02:38:33.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\projects\\CalculoFaturamento-JSON\\CalculoFaturamento-JSON\\Program.cs",
+              "RelativeDocumentMoniker": "CalculoFaturamento-JSON\\Program.cs",
+              "ToolTip": "H:\\projects\\CalculoFaturamento-JSON\\CalculoFaturamento-JSON\\Program.cs",
+              "RelativeToolTip": "CalculoFaturamento-JSON\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T02:07:54.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

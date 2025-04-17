@@ -1,0 +1,14 @@
+H:\projects\ConvertendoString\ConvertendoString\bin\Debug\net8.0\ConvertendoString.exe
+H:\projects\ConvertendoString\ConvertendoString\bin\Debug\net8.0\ConvertendoString.deps.json
+H:\projects\ConvertendoString\ConvertendoString\bin\Debug\net8.0\ConvertendoString.runtimeconfig.json
+H:\projects\ConvertendoString\ConvertendoString\bin\Debug\net8.0\ConvertendoString.dll
+H:\projects\ConvertendoString\ConvertendoString\bin\Debug\net8.0\ConvertendoString.pdb
+H:\projects\ConvertendoString\ConvertendoString\obj\Debug\net8.0\ConvertendoString.GeneratedMSBuildEditorConfig.editorconfig
+H:\projects\ConvertendoString\ConvertendoString\obj\Debug\net8.0\ConvertendoString.AssemblyInfoInputs.cache
+H:\projects\ConvertendoString\ConvertendoString\obj\Debug\net8.0\ConvertendoString.AssemblyInfo.cs
+H:\projects\ConvertendoString\ConvertendoString\obj\Debug\net8.0\ConvertendoString.csproj.CoreCompileInputs.cache
+H:\projects\ConvertendoString\ConvertendoString\obj\Debug\net8.0\ConvertendoString.dll
+H:\projects\ConvertendoString\ConvertendoString\obj\Debug\net8.0\refint\ConvertendoString.dll
+H:\projects\ConvertendoString\ConvertendoString\obj\Debug\net8.0\ConvertendoString.pdb
+H:\projects\ConvertendoString\ConvertendoString\obj\Debug\net8.0\ConvertendoString.genruntimeconfig.cache
+H:\projects\ConvertendoString\ConvertendoString\obj\Debug\net8.0\ref\ConvertendoString.dll

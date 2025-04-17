@@ -1,0 +1,14 @@
+H:\projects\RepresentaçãoPorEstado\RepresentaçãoPorEstado\bin\Debug\net8.0\RepresentaçãoPorEstado.exe
+H:\projects\RepresentaçãoPorEstado\RepresentaçãoPorEstado\bin\Debug\net8.0\RepresentaçãoPorEstado.deps.json
+H:\projects\RepresentaçãoPorEstado\RepresentaçãoPorEstado\bin\Debug\net8.0\RepresentaçãoPorEstado.runtimeconfig.json
+H:\projects\RepresentaçãoPorEstado\RepresentaçãoPorEstado\bin\Debug\net8.0\RepresentaçãoPorEstado.dll
+H:\projects\RepresentaçãoPorEstado\RepresentaçãoPorEstado\bin\Debug\net8.0\RepresentaçãoPorEstado.pdb
+H:\projects\RepresentaçãoPorEstado\RepresentaçãoPorEstado\obj\Debug\net8.0\RepresentaçãoPorEstado.GeneratedMSBuildEditorConfig.editorconfig
+H:\projects\RepresentaçãoPorEstado\RepresentaçãoPorEstado\obj\Debug\net8.0\RepresentaçãoPorEstado.AssemblyInfoInputs.cache
+H:\projects\RepresentaçãoPorEstado\RepresentaçãoPorEstado\obj\Debug\net8.0\RepresentaçãoPorEstado.AssemblyInfo.cs
+H:\projects\RepresentaçãoPorEstado\RepresentaçãoPorEstado\obj\Debug\net8.0\RepresentaçãoPorEstado.csproj.CoreCompileInputs.cache
+H:\projects\RepresentaçãoPorEstado\RepresentaçãoPorEstado\obj\Debug\net8.0\RepresentaçãoPorEstado.dll
+H:\projects\RepresentaçãoPorEstado\RepresentaçãoPorEstado\obj\Debug\net8.0\refint\RepresentaçãoPorEstado.dll
+H:\projects\RepresentaçãoPorEstado\RepresentaçãoPorEstado\obj\Debug\net8.0\RepresentaçãoPorEstado.pdb
+H:\projects\RepresentaçãoPorEstado\RepresentaçãoPorEstado\obj\Debug\net8.0\RepresentaçãoPorEstado.genruntimeconfig.cache
+H:\projects\RepresentaçãoPorEstado\RepresentaçãoPorEstado\obj\Debug\net8.0\ref\RepresentaçãoPorEstado.dll
